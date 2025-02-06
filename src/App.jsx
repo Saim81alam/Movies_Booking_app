@@ -13,7 +13,7 @@ function App() {
       image:
         "https://m.media-amazon.com/images/S/pv-target-images/149ac783c0e32bfecd62d2d447b5c36d304d5a5afe30db4d701dc93dc8bba5b0.jpg",
       details:
-        "Rocky's Mother: If you gain courage because a thousand people are standing behind you, then you can win only one war.",
+        "Rocky's Mother:- If you gain courage because a thousand people are standing behind you, then you can win only one war.",
     },
     {
       id: 2,
